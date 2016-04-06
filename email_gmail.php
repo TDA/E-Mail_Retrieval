@@ -8,7 +8,6 @@
 require('PD.php');
 /* connect to gmail */
 $hostname = '{imap.gmail.com:993/imap/ssl/novalidate-cert}EHI Received Emails';
-$username = 'saiprash.thegreatest@gmail.com';
 
 /* try to connect */
 $inbox = imap_open($hostname,$username,$password) or die('Cannot connect to Gmail: ' . imap_last_error());
