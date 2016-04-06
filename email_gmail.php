@@ -5,11 +5,10 @@
  * Date: 4/5/16
  * Time: 7:45 PM
  */
-
+require('PD.php');
 /* connect to gmail */
-$hostname = '{imap.gmail.com:993/imap/ssl}ehi-emails';
+$hostname = '{imap.gmail.com:993/imap/ssl/novalidate-cert}EHI Received Emails';
 $username = 'saiprash.thegreatest@gmail.com';
-$password = PD.password;
 
 /* try to connect */
 $inbox = imap_open($hostname,$username,$password) or die('Cannot connect to Gmail: ' . imap_last_error());
@@ -19,7 +18,6 @@ $emails = imap_search($inbox,'ALL');
 
 /* if emails are returned, cycle through each... */
 if($emails) {
-
     /* begin output var */
     $output = '';
 
