@@ -13,13 +13,13 @@ $hostname = '{imap.gmail.com:993/imap/ssl/novalidate-cert}EHI Emails';
 /* try to connect */
 $inbox = imap_open($hostname,$username,$password) or die('Cannot connect to Gmail: ' . imap_last_error());
 
-/* grab emails */
-$emails = imap_search($inbox,'ALL');
+/* grab emails that failed */
+$emails = imap_search($inbox,'FROM "mailer-daemon@googlemail.com"');
 
 /* if emails are returned, cycle through each... */
 if($emails) {
     /* begin output var */
-    echo "Emails found<br>";
+    echo "Emails found<br>\n";
 
 
     /* put the newest emails on top */
@@ -30,13 +30,16 @@ if($emails) {
         $output = '';
         /* get information specific to this email */
         $overview = imap_fetch_overview($inbox,$email_number,0);
-//        $message = imap_fetchbody($inbox,$email_number,2);
+        $message = imap_fetchbody($inbox,$email_number,2);
+
+        //$re = "/.*Google tried to deliver your message, but it was rejected by the server for the recipient domain (.*) by (.*)\\. \\[(.*)\\].*/";
+        //preg_match($re, $message, $matches);
 
         /* output the email header information */
-//        $output.= '<div class="toggler '.($overview[0]->seen ? 'read' : 'unread').'">';
         $output.= $overview[0]->subject;
-//        $output.= '<span class="from">'.$overview[0]->from.'</span>';
-//        $output.= '<span class="date">on '.$overview[0]->date.'</span>';
+        $output.= $overview[0]->date;
+//        $output.= implode(",", $matches);
+        $output.= $message;
 //        $output.= '</div>';
 
         /* output the email body */
