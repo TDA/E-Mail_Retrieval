@@ -20,7 +20,7 @@ function getEMail($username, $password, $condition)
     /* if emails are returned, cycle through each... */
     if ($emails) {
         /* begin output var */
-        echo "Emails found<br>\n";
+        //echo "Emails found<br>\n";
 
         /* for every email... */
         foreach ($emails as $email_number) {
@@ -61,5 +61,6 @@ function getEMail($username, $password, $condition)
 //print_r($hashmap);
 
 $messages = getEMail($username, $password, 'TO '.$argv[1]);
-print_r($messages[0]);
+// prints the first email alone
+print_r(reset($messages));
 ?>
