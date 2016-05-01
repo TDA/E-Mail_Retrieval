@@ -47,7 +47,7 @@ if($emails) {
     echo 'No emails';
 }
 
-echo implode("  ", $hashmap);
+print_r($hashmap);
 /* close the connection */
 imap_close($inbox);
 ?>
