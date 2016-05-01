@@ -1,0 +1,789 @@
+Array
+(
+    [aplus-electric.com] => Array
+        (
+            [0] => smtp.secureserver.net
+            [1] => 68.178.213.37
+        )
+
+    [amarnathyatra.co.in] => Array
+        (
+            [0] => amarnathyatra.co.in
+            [1] => 99.198.119.130
+        )
+
+    [happyfacemailer.com] => Array
+        (
+            [0] => happyfacemailer.com
+            [1] => 64.34.166.38
+        )
+
+    [tfcstudentchallenge.org] => Array
+        (
+            [0] => mx.mijnfilter.com
+            [1] => 194.9.85.22
+        )
+
+    [trezornekretnine.rs] => Array
+        (
+            [0] => trezornekretnine.rs
+            [1] => 77.105.36.131
+        )
+
+    [doitmax.de] => Array
+        (
+            [0] => mxlb.ispgateway.de
+            [1] => 80.67.18.126
+        )
+
+    [wondermailer.com] => Array
+        (
+            [0] => wondermailer.com
+            [1] => 64.34.166.38
+        )
+
+    [jingjobs.com] => Array
+        (
+            [0] => mail.jingjobs.com
+            [1] => 52.79.41.64
+        )
+
+    [footballstore.ru] => Array
+        (
+            [0] => mx.yandex.ru
+            [1] => 213.180.204.89
+        )
+
+    [buyrealfollows.com] => Array
+        (
+            [0] => buyrealfollows.com
+            [1] => 198.50.168.242
+        )
+
+    [pretenciosas.com] => Array
+        (
+            [0] => phpzone.cl
+            [1] => 190.151.18.117
+        )
+
+    [weisrealtyexecutives.com] => Array
+        (
+            [0] => mx1.sub4.homie.mail.dreamhost.com
+            [1] => 69.163.253.136
+        )
+
+    [direct-carrelages.com] => Array
+        (
+            [0] => mx1.direct-carrelages.com
+            [1] => 194.146.225.243
+        )
+
+    [backerstreet.in] => Array
+        (
+            [0] => mx.zoho.com
+            [1] => 165.254.167.50
+        )
+
+    [inyalakehotel.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 173.194.79.26
+        )
+
+    [jezioro.com.pl] => Array
+        (
+            [0] => jezioro.com.pl
+            [1] => 94.152.147.228
+        )
+
+    [telefontarifrechner.de] => Array
+        (
+            [0] => mx00.kundenserver.de
+            [1] => 212.227.15.41
+        )
+
+    [thunderboy.de] => Array
+        (
+            [0] => mail.thunderboy.de
+            [1] => 77.236.96.206
+        )
+
+    [formula5.in] => Array
+        (
+            [0] => formula5.in
+            [1] => 173.236.45.90
+        )
+
+    [wackomaria.co.jp] => Array
+        (
+            [0] => mta.wackomaria.co.jp
+            [1] => 153.122.112.235
+        )
+
+    [unosel.org] => Array
+        (
+            [0] => mx5.wem.fr
+            [1] => 87.98.218.186
+        )
+
+    [elgourmet.com] => Array
+        (
+            [0] => mail.pramer.tv
+            [1] => 190.221.0.185
+        )
+
+    [passaporteitaliano.net] => Array
+        (
+            [0] => mx.core.locaweb.com.br
+            [1] => 177.153.23.241
+        )
+
+    [blockbusterbd.com] => Array
+        (
+            [0] => blockbusterbd.com
+            [1] => 63.251.124.110
+        )
+
+    [alkaramonlinequranacademy.com] => Array
+        (
+            [0] => alkaramonlinequranacademy.com
+            [1] => 185.63.252.21
+        )
+
+    [kreativmarketingcampus.com] => Array
+        (
+            [0] => w0145335.kasserver.com
+            [1] => 85.13.137.214
+        )
+
+    [forex-facile.it] => Array
+        (
+            [0] => mx.pcube.io
+            [1] => 136.243.177.118
+        )
+
+    [rbs-crm.ru] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.27
+        )
+
+    [cad-invest.com] => Array
+        (
+            [0] => 46-105-78-93.ovh.net
+            [1] => 46.105.78.93
+        )
+
+    [modna.com.ua] => Array
+        (
+            [0] => mail.modna.com.ua
+            [1] => 188.40.13.90
+        )
+
+    [igrow-academy.com] => Array
+        (
+            [0] => igrow-academy.com
+            [1] => 67.222.128.35
+        )
+
+    [megafactory.ru] => Array
+        (
+            [0] => emx.mail.ru
+            [1] => 94.100.180.180
+        )
+
+    [armandolio.com.ar] => Array
+        (
+            [0] => mail.armandolio.com.ar
+            [1] => 200.68.105.19
+        )
+
+    [myproptree.com] => Array
+        (
+            [0] => myproptree.com
+            [1] => 208.91.199.22
+        )
+
+    [bbqunlimited.com] => Array
+        (
+            [0] => bbqunlimited.com
+            [1] => 69.89.31.144
+        )
+
+    [manxseo.com] => Array
+        (
+            [0] => manxseo.com
+            [1] => 5.10.105.36
+        )
+
+    [namespacestudio.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 173.194.203.27
+        )
+
+    [blaster.guru] => Array
+        (
+            [0] => blaster.guru
+            [1] => 64.34.166.38
+        )
+
+    [smartbenefitsplus.com] => Array
+        (
+            [0] => us-smtp-inbound-1.mimecast.com
+            [1] => 207.211.30.221
+        )
+
+    [crystalinfoway.com] => Array
+        (
+            [0] => crystalinfoway.com
+            [1] => 50.28.14.178
+        )
+
+    [datakl.com] => Array
+        (
+            [0] => mailserv1.datakl.com
+            [1] => 210.48.148.206
+        )
+
+    [geosalud.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.25.27
+        )
+
+    [thesplitview.com] => Array
+        (
+            [0] => thesplitview.com
+            [1] => 64.34.166.38
+        )
+
+    [sapp.cz] => Array
+        (
+            [0] => killer.pb.cz
+            [1] => 109.72.0.19
+        )
+
+    [dramronsmartlipo.com] => Array
+        (
+            [0] => dramronsmartlipo.com
+            [1] => 50.62.81.206
+        )
+
+    [housejakarta.com] => Array
+        (
+            [0] => housejakarta.com
+            [1] => 180.235.151.2
+        )
+
+    [exanov.fr] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 173.194.79.27
+        )
+
+    [morpheushealthcare.com] => Array
+        (
+            [0] => morpheushealthcare.com
+            [1] => 45.113.122.28
+        )
+
+    [webinsta.com] => Array
+        (
+            [0] => mailgw1.linqhost.net
+            [1] => 82.192.90.130
+        )
+
+    [blueo.net] => Array
+        (
+            [0] => mail.blueo.net
+            [1] => 69.195.124.218
+        )
+
+    [pedroevargas.com] => Array
+        (
+            [0] => mail.pedroevargas.com
+            [1] => 173.254.28.128
+        )
+
+    [keyzone.in] => Array
+        (
+            [0] => keyzone.in
+            [1] => 109.73.234.36
+        )
+
+    [alshifaherbal.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.27
+        )
+
+    [digitery.pk] => Array
+        (
+            [0] => mail3.eqx.gridhost.co.uk
+            [1] => 95.142.156.6
+        )
+
+    [ondemandbay.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 173.194.202.26
+        )
+
+    [spoteo.de] => Array
+        (
+            [0] => mxlb.ispgateway.de
+            [1] => 80.67.18.126
+        )
+
+    [bgr.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.27
+        )
+
+    [powerlibrary.org] => Array
+        (
+            [0] => barracuda.palibrary.org
+            [1] => 76.8.51.190
+        )
+
+    [ibsindia.org] => Array
+        (
+            [0] => ibsindia.org.s9a1.psmtp.com
+            [1] => 74.125.28.27
+        )
+
+    [duematernity.com] => Array
+        (
+            [0] => mx-biz.mail.am0.yahoodns.net
+            [1] => 63.250.193.253
+        )
+
+    [dyageast.com] => Array
+        (
+            [0] => dyageast.com
+            [1] => 23.235.196.250
+        )
+
+    [motor-infos.tv] => Array
+        (
+            [0] => mx00.1and1.fr
+            [1] => 212.227.15.41
+        )
+
+    [createadvertising.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.27
+        )
+
+    [bestlistmailer.com] => Array
+        (
+            [0] => bestlistmailer.com
+            [1] => 64.34.166.38
+        )
+
+    [rentalhousingdeals.com] => Array
+        (
+            [0] => mx2.sub4.homie.mail.dreamhost.com
+            [1] => 69.163.253.137
+        )
+
+    [50adaygetsyoupaid.com] => Array
+        (
+            [0] => 50adaygetsyoupaid.com
+            [1] => 64.34.166.38
+        )
+
+    [mplusinfo.fr] => Array
+        (
+            [0] => mx1.ovh.net
+            [1] => 213.186.33.29
+        )
+
+    [bodyjewelry.com] => Array
+        (
+            [0] => mx-biz.mail.am0.yahoodns.net
+            [1] => 63.250.193.253
+        )
+
+    [samchaltain.com] => Array
+        (
+            [0] => samchaltain.com
+            [1] => 173.254.28.104
+        )
+
+    [spocketlive.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.27
+        )
+
+    [menuorderapp.com] => Array
+        (
+            [0] => mail.menuorderapp.com
+            [1] => 50.62.135.35
+        )
+
+    [asistenciadentalsocial.com] => Array
+        (
+            [0] => mail.asistenciadentalsocial.com
+            [1] => 37.187.174.189
+        )
+
+    [dimpleart.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.27
+        )
+
+    [juicingpost.com] => Array
+        (
+            [0] => mx2.sub4.homie.mail.dreamhost.com
+            [1] => 69.163.253.137
+        )
+
+    [recensioniforex.com] => Array
+        (
+            [0] => mx.pcube.io
+            [1] => 136.243.177.118
+        )
+
+    [roanokefreepress.com] => Array
+        (
+            [0] => roanokefreepress.com
+            [1] => 66.147.242.157
+        )
+
+    [santalolla.com.br] => Array
+        (
+            [0] => server.santalolla.com.br
+            [1] => 192.163.248.44
+        )
+
+    [incwo.com] => Array
+        (
+            [0] => mx0.entreprise-facile.com
+            [1] => 84.233.158.176
+        )
+
+    [biglootbox.com] => Array
+        (
+            [0] => biglootbox.com
+            [1] => 64.34.166.38
+        )
+
+    [dion.ntnu.no] => Array
+        (
+            [0] => mx.ntnu.no
+            [1] => 129.241.56.67
+        )
+
+    [infoicontechnologies.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.26
+        )
+
+    [penspinning.de] => Array
+        (
+            [0] => mail.penspinning.de
+            [1] => 88.198.95.180
+        )
+
+    [rumbacomercial.com] => Array
+        (
+            [0] => rumbacomercial.com
+            [1] => 74.220.215.216
+        )
+
+    [ipressclub.com] => Array
+        (
+            [0] => mail.ipressclub.com
+            [1] => 108.179.232.80
+        )
+
+    [concretebuilders.co.in] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.26
+        )
+
+    [centuryrealestate.in] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.27
+        )
+
+    [coimbatoretaxi.com] => Array
+        (
+            [0] => coimbatoretaxi.com
+            [1] => 216.172.165.191
+        )
+
+    [topcash.club] => Array
+        (
+            [0] => topcash.club
+            [1] => 64.34.166.38
+        )
+
+    [fufa-sv98.de] => Array
+        (
+            [0] => mxlb.ispgateway.de
+            [1] => 80.67.18.126
+        )
+
+    [engineersinstitute.com] => Array
+        (
+            [0] => engineersinstitute.com
+            [1] => 98.143.147.230
+        )
+
+    [pushpainfotech.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.26
+        )
+
+    [propertypointer.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.26
+        )
+
+    [epuravida.org] => Array
+        (
+            [0] => mailno.ad-6bits.net
+            [1] => 94.23.87.51
+        )
+
+    [crystalclearholidays.com] => Array
+        (
+            [0] => crystalclearholidays.com
+            [1] => 198.15.68.147
+        )
+
+    [withoutstresstips.com] => Array
+        (
+            [0] => mx00.1and1.com
+            [1] => 74.208.5.3
+        )
+
+    [moeckern24.de] => Array
+        (
+            [0] => mail.moeckern24.de
+            [1] => 217.114.211.152
+        )
+
+    [drinkmelbourne.com.au] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 173.194.203.27
+        )
+
+    [wholesalemiles.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 173.194.203.27
+        )
+
+    [movous.xyz] => Array
+        (
+            [0] => smx1.web-hosting.com
+            [1] => 209.188.21.34
+        )
+
+    [ufficioproduzioneclienti.it] => Array
+        (
+            [0] => mail.ufficioproduzioneclienti.it
+            [1] => 37.187.244.239
+        )
+
+    [lapisraro.com.br] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.26
+        )
+
+    [prmention.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.26
+        )
+
+    [gpro-tools.eu] => Array
+        (
+            [0] => wes1-mx1.wedos.net
+            [1] => 46.28.106.11
+        )
+
+    [unomotos.com.ar] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.26
+        )
+
+    [passgoforcash.com] => Array
+        (
+            [0] => passgoforcash.com
+            [1] => 64.34.166.38
+        )
+
+    [newbraunfelsinsulation.com] => Array
+        (
+            [0] => newbraunfelsinsulation.com
+            [1] => 72.29.85.158
+        )
+
+    [gromaudio.ru] => Array
+        (
+            [0] => mail.gromaudio.com
+            [1] => 104.153.44.146
+        )
+
+    [mojelekarna.cz] => Array
+        (
+            [0] => in.smtp.cz
+            [1] => 81.95.97.116
+        )
+
+    [bo-alternativ.de] => Array
+        (
+            [0] => mxlb.ispgateway.de
+            [1] => 80.67.18.126
+        )
+
+    [madonnaonline.com.br] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 173.194.202.27
+        )
+
+    [octobuz.com] => Array
+        (
+            [0] => smtp.secureserver.net
+            [1] => 72.167.238.29
+        )
+
+    [sayfix.com] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 173.194.202.26
+        )
+
+    [marketdigestpro.com] => Array
+        (
+            [0] => mx8.webfaction.com
+            [1] => 75.126.24.68
+        )
+
+    [annaandspencer.com] => Array
+        (
+            [0] => annaandspencer.com
+            [1] => 192.232.218.114
+        )
+
+    [imobensimoveis.com.br] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.28.26
+        )
+
+    [trailrunning.de] => Array
+        (
+            [0] => mail.trailrunning.de
+            [1] => 213.165.89.171
+        )
+
+    [myassignmentservices.com] => Array
+        (
+            [0] => myassignmentservices.com
+            [1] => 173.254.52.120
+        )
+
+    [matrimonisicilia.net] => Array
+        (
+            [0] => 16ad3bdc09d24b8973edd84926c31b.pamx1.hotmail.com
+            [1] => 65.54.188.109
+        )
+
+    [cmvaustralia.com] => Array
+        (
+            [0] => scanmx01.bluepackets.com.au
+            [1] => 113.20.24.100
+        )
+
+    [emithilaart.com] => Array
+        (
+            [0] => mx9.ukclouddns.co.uk
+            [1] => 149.255.62.12
+        )
+
+    [m3cs.com.br] => Array
+        (
+            [0] => m3cs.com.br
+            [1] => 192.185.215.68
+        )
+
+    [filharmonia.krakow.pl] => Array
+        (
+            [0] => a68.fsi.pl
+            [1] => 194.33.187.68
+        )
+
+    [andypola.es] => Array
+        (
+            [0] => mail.andypola.es
+            [1] => 94.23.81.131
+        )
+
+    [electricplaza.in] => Array
+        (
+            [0] => mail.net4india.com
+            [1] => 118.67.248.42
+        )
+
+    [sejativo.com.br] => Array
+        (
+            [0] => aspmx.l.google.com
+            [1] => 74.125.25.27
+        )
+
+    [soloway.ru] => Array
+        (
+            [0] => mx.adriver.ru
+            [1] => 81.222.128.204
+        )
+
+    [asu.edu] => Array
+        (
+            [0] => d70065a.ess.barracudanetworks.com
+            [1] => 64.235.154.105
+        )
+
+    [drdavidwilliams.com] => Array
+        (
+            [0] => spam.healthydirections.com
+            [1] => 63.78.31.152
+        )
+
+    [markgray.com.au] => Array
+        (
+            [0] => mail.markgray.com.au
+            [1] => 203.28.48.2
+        )
+
+    [drwhitaker.com] => Array
+        (
+            [0] => spam.healthydirections.com
+            [1] => 63.78.31.152
+        )
+
+    [10buckblast.com] => Array
+        (
+            [0] => 10buckblast.com
+            [1] => 64.34.166.38
+        )
+
+)
